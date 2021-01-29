@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4cf7a685.chunk.css",
+    "main.js": "/static/js/main.7655a1a6.chunk.js",
+    "main.js.map": "/static/js/main.7655a1a6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0197b26b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0197b26b.js.map",
+    "static/js/2.6adcf2fd.chunk.js": "/static/js/2.6adcf2fd.chunk.js",
+    "static/js/2.6adcf2fd.chunk.js.map": "/static/js/2.6adcf2fd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4cf7a685.chunk.css.map": "/static/css/main.4cf7a685.chunk.css.map",
+    "static/js/2.6adcf2fd.chunk.js.LICENSE.txt": "/static/js/2.6adcf2fd.chunk.js.LICENSE.txt",
+    "static/media/133631843_1307631789615026_939976124895431361_o (1).2f97933e.jpg": "/static/media/133631843_1307631789615026_939976124895431361_o (1).2f97933e.jpg",
+    "static/media/banner.0ac8dc9f.jpg": "/static/media/banner.0ac8dc9f.jpg",
+    "static/media/imran-author.b32492f9.png": "/static/media/imran-author.b32492f9.png",
+    "static/media/imran-hossain.12c41211.png": "/static/media/imran-hossain.12c41211.png",
+    "static/media/App.css": "/static/media/themefisher-font.eaab8c23.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0197b26b.js",
+    "static/js/2.6adcf2fd.chunk.js",
+    "static/css/main.4cf7a685.chunk.css",
+    "static/js/main.7655a1a6.chunk.js"
+  ]
+}
